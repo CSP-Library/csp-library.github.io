@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search and Writing Rescue Workshops
+title: Streamlined access to Library resources
 ---
 
 We’re excited to share a new tool you can use to streamline your access to online Library resources:
