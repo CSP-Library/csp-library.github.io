@@ -6,27 +6,29 @@ body {
 /* TYPOGRAPHY */
 
     /* HEADINGS */
+    /* reset headings to boostrap defaults */
 
     h1 {
-        font-size: 2.5rem;
+        font-size: 40px;
     }
 
+    /* override LG default box title styling */
     h2, .s-lib-box .s-lib-box-title {
-        font-size: 2rem;
+        font-size: 32px;
     }
 
     h3 {
-        font-size: 1.75rem;
+        font-size: 28px;
     }
 
     h4 {
-        font-size: 1.5rem;
+        font-size: 24px;
     }
 
     h5 {
-        font-size: 1.25rem;
+        font-size: 20px;
     }
 
     h6 {
-        font-size: 1rem;
+        font-size: 16px;
     }
