@@ -11,7 +11,7 @@ body {
         font-size: 2.5rem;
     }
 
-    h2, h2.s-lib-box-title {
+    h2, .s-lib-box .s-lib-box-title {
         font-size: 2rem;
     }
 
