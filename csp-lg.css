@@ -51,7 +51,7 @@ body {
 
 /* GUIDE SIDE NAVIGATION */
 
-    #s-lg-guide-tabs > ul > li > a {
+#s-lg-tabs-container .nav-tabs > li > a, #s-lg-tabs-container .nav-tabs > li > button, #s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > button {
         background-color: #ffffff;
         font-weight: 400;
     }
