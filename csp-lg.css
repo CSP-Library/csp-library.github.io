@@ -5,6 +5,8 @@
 body {
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
 }
 
 
@@ -13,6 +15,8 @@ body {
     p {
         font-size: 16px;
         font-family: 'Open Sans', sans-serif;
+        line-height: 1.5;
+        font-weight: 400;
     }
     
     /* HEADINGS */
@@ -43,4 +47,11 @@ body {
 
     h6 {
         font-size: 16px;
+    }
+
+/* GUIDE SIDE NAVIGATION */
+
+    #s-lg-guide-tabs > ul > li > a {
+        background-color: #ffffff;
+        font-weight: 400;
     }
