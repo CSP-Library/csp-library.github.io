@@ -20,11 +20,13 @@ body {
 
     h1 {
         font-size: 40px;
+        font-weight: 600;
     }
 
     /* override LG default box title styling */
     h2, .s-lib-box .s-lib-box-title {
         font-size: 32px;
+        font-weight: 600;
     }
 
     h3 {
