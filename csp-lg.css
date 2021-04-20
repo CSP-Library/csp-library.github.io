@@ -71,3 +71,10 @@ body {
         #s-lg-tabs-container .nav-tabs > li > a, #s-lg-tabs-container .nav-tabs > li > button, #s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > button:hover {
             background-color: transparent;
         }
+
+/* GUIDE BOXES */
+
+    /* override default box styling */
+    .s-lib-box {
+        box-shadow: none;
+    }
