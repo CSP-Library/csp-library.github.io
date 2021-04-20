@@ -15,6 +15,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
     font-weight: 400;
+    color: #212529;
 }
 
 
@@ -39,22 +40,27 @@ body {
     h2, .s-lib-box .s-lib-box-title {
         font-size: 32px;
         font-weight: 600;
+        color: 
     }
 
     h3 {
         font-size: 28px;
+        font-weight: 600;
     }
 
     h4 {
         font-size: 24px;
+        font-weight: 600;
     }
 
     h5 {
         font-size: 20px;
+        font-weight: 600;
     }
 
     h6 {
         font-size: 16px;
+        font-weight: 600;
     }
 
 /* GUIDE SIDE NAVIGATION */
