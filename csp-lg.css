@@ -51,7 +51,15 @@ body {
 
 /* GUIDE SIDE NAVIGATION */
 
-#s-lg-tabs-container .nav-tabs > li > a, #s-lg-tabs-container .nav-tabs > li > button, #s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > button {
+    /* override default menu styles */
+    #s-lg-tabs-container .nav-tabs > li > a, #s-lg-tabs-container .nav-tabs > li > button, #s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > button {
         background-color: #ffffff;
         font-weight: 400;
+        padding: 10px 0 10px 0;
+        border-top: 1px solid #000;
     }
+
+        /* ... override hover */
+        #s-lg-tabs-container .nav-tabs > li > a, #s-lg-tabs-container .nav-tabs > li > button, #s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > button:hover {
+            background-color: none;
+        }
